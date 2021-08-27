@@ -1,6 +1,6 @@
 {
   "name": "@ib-hooks/use-fade-in",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to add fade-in animation to an element.",
   "main": "index.js",
   "repository": {
