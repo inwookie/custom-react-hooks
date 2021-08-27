@@ -1,6 +1,6 @@
 {
   "name": "@ib-hooks/use-scroll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Hook to get X/Y coordinates of current position of the scroll.",
   "main": "index.js",
   "repository": {
