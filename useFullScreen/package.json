@@ -1,6 +1,6 @@
 {
   "name": "@ib-hooks/use-full-screen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to make any element go full screen.",
   "main": "index.js",
   "repository": {
