@@ -1,0 +1,27 @@
+{
+  "name": "@ib-hooks/use-network",
+  "version": "1.0.0",
+  "description": "React Hook to listen when the user goes online or offline.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inwookie/custom-react-hooks.git"
+  },
+  "keywords": [
+    "React",
+    "Hooks",
+    "Online",
+    "Offline",
+    "Network"
+  ],
+  "author": "Inwook Baek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inwookie/custom-react-hooks/issues"
+  },
+  "homepage": "https://github.com/inwookie/custom-react-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
