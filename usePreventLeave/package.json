@@ -1,0 +1,26 @@
+{
+  "name": "@ib-hooks/use-prevent-leave",
+  "version": "1.0.0",
+  "description": "React Hook to prompt the user for confirmation before leaving the page.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inwookie/custom-react-hooks.git"
+  },
+  "keywords": [
+    "React",
+    "Hooks",
+    "Prevent",
+    "Leave"
+  ],
+  "author": "Inwook Baek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inwookie/custom-react-hooks/issues"
+  },
+  "homepage": "https://github.com/inwookie/custom-react-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
