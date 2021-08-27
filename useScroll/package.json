@@ -1,0 +1,25 @@
+{
+  "name": "@ib-hooks/use-scroll",
+  "version": "1.0.1",
+  "description": "React Hook to get X/Y coordinates of current position of the scroll.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inwookie/custom-react-hooks.git"
+  },
+  "keywords": [
+    "React",
+    "Hooks",
+    "Scroll"
+  ],
+  "author": "Inwook Baek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inwookie/custom-react-hooks/issues"
+  },
+  "homepage": "https://github.com/inwookie/custom-react-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
