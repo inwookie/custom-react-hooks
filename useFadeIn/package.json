@@ -1,0 +1,25 @@
+{
+  "name": "@ib-hooks/use-fade-in",
+  "version": "1.0.0",
+  "description": "React Hook to add fade-in animation to an element.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inwookie/custom-react-hooks.git"
+  },
+  "keywords": [
+    "React",
+    "Hooks",
+    "Fade-in"
+  ],
+  "author": "Inwook Baek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inwookie/custom-react-hooks/issues"
+  },
+  "homepage": "https://github.com/inwookie/custom-react-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
