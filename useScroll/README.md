@@ -16,7 +16,7 @@ React Hook to **get X/Y coordinates of current position of the scroll.**
 
 ```js
 import React from "react";
-import useTitle from "@ib-hooks/use-scroll";
+import useScroll from "@ib-hooks/use-scroll";
 
 function App() {
   const { scrollX, scrollY } = useScroll();
