@@ -2,12 +2,12 @@
 
 My first open source project of `React Hooks` I made for practice.
 
-## 🔥 Stack
+## Stack
 ### Front-end
 <img height="30" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/> <img height="30" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript&logoColor=F7DF1E"/>
 <img height="30" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
-## ✅ Packages
+## Packages
 - [x] React
 - [x] useState
 - [x] useEffect
